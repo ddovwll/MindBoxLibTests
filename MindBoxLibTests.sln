@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindBoxLibTests", "MindBoxLibTests.csproj", "{254F8514-AF5C-461D-AF10-2D9808A71DCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254F8514-AF5C-461D-AF10-2D9808A71DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254F8514-AF5C-461D-AF10-2D9808A71DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254F8514-AF5C-461D-AF10-2D9808A71DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254F8514-AF5C-461D-AF10-2D9808A71DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
